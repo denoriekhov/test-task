@@ -1,0 +1,27 @@
+https://www.loom.com/share/e2911ea08dd14d13a7c870f742aec9cf
+
+Expected Result + User input
+
+#2 instash.com
+
+#2 www.instash.com
+
+#2 instash.com/best-pubic-hair-trimmers/
+
+#4 care.ladieshaircaring.com/pubic-hair-trimmer/
+    -- fakesubdomain.instash.com
+    -- fakesubdomain.instash.com/fakepage
+    -- something.instash.com
+    -- instash.com/fakepage
+    -- stash.com
+    -- fakedomain.com/best-pubic-hair-trimmers/
+    -- ladieshaircaring.com/pubic-hair-trimmer/
+    -- fakesubdomain.ladieshaircaring.com/pubic-hair-trimmer/
+    -- www.ladieshaircaring.com/pubic-hair-trimmer/
+
+Response from Results / JSON
+
+https://www.nytimes.com/wirecutter/reviews/best-pubic-hair-trimmer/
+https://www.instash.com/best-pubic-hair-trimmers/
+https://www.hairclippersclub.com/6-best-pubic-hair-trimmers-for-men-women/
+https://care.ladieshaircaring.com/pubic-hair-trimmer/
