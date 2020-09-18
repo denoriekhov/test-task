@@ -8,7 +8,7 @@ Run the following commands:
 ```
 composer install
 npm i
-php artisan db:migrate --seed
+php artisan migrate --seed
 ```
 
 Open terminal #1 and run `php artisan serve`;
