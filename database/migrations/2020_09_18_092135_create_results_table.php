@@ -15,7 +15,7 @@ class CreateResultsTable extends Migration
     {
         Schema::create('results', function (Blueprint $table) {
             $table->id();
-            $table->string('url');
+            $table->string('url')->index();
             $table->integer('position');
             $table->timestamp('scanned_at');
             $table->timestamps();
